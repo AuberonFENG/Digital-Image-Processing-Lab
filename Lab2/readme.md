@@ -1,5 +1,5 @@
 
-1.	Image reduction
+1.	Image reduction\\
 Alternative line reduction
 Linear reduction to reduce images to any smaller size
 2.	Perform image enlargement
